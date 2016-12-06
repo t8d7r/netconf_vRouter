@@ -1,6 +1,7 @@
 # Netconf_vRouter
-Small Python for testing/understanding Netconf RPC call on vRouter
-RPC Calls have been forged base on 5.1R1 version Yang model and script use parmamika library to enable ssh connection
+Small Python script for testing/understanding Netconf RPC calls on vRouter
+
+RPC Calls have been forged on 5.1R1 version Yang model and script use parmamiko library to enable ssh/netconf connection
 
 ## RPC calls
 
